@@ -1,0 +1,96 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": true,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "fan",
+      "admob_banner_unit_id": "ca-app-pub-8181258110440512/5521321428",
+      "admob_interstitial_unit_id": "ca-app-pub-8181258110440512/7185756882",
+      "admob_native_unit_id": "ca-app-pub-8181258110440512/3689365006",
+      "admob_app_open_unit_id": "ca-app-pub-8181258110440512/7430704436",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "xxxx",
+      "fan_interstitial_unit_id": "xxx",
+      "fan_native_unit_id": "xxx",
+      "startapp_app_id": "0",
+      "unity_game_id": "4725055",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 0,
+      "native_ad_index": 1,
+      "native_ad_interval": 3,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "posts": [
+
+    {
+      "id": 1,
+      "category": "Wallpaper HD",
+      "title": "Wallpaper HD",
+      "image": "https://raw.githubusercontent.com/maxmobfan/repdit/main/c%20(1).jpg",
+      "content": "Download Wallpaper HD"
+    } ,{
+      "id": 2,
+      "category": "Wallpaper HD",
+      "title": "Wallpaper HD",
+      "image": "https://raw.githubusercontent.com/maxmobfan/repdit/main/c%20(2).jpg",
+      "content": "Download Wallpaper HD"
+    } ,{
+      "id": 3,
+      "category": "Wallpaper HD",
+      "title": "Wallpaper HD",
+      "image": "https://raw.githubusercontent.com/maxmobfan/repdit/main/c%20(3).jpg",
+      "content": "Download Wallpaper HD"
+    } ,{
+      "id": 4,
+      "category": "Wallpaper HD",
+      "title": "Wallpaper HD",
+      "image": "https://raw.githubusercontent.com/maxmobfan/repdit/main/c%20(4).jpg",
+      "content": "Download Wallpaper HD"
+    }
+  ]
+}
